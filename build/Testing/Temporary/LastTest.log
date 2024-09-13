@@ -1,10 +1,10 @@
-Start testing: Sep 13 16:34 MSK
+Start testing: Sep 13 16:44 MSK
 ----------------------------------------------------------
 1/1 Testing: MyTest
 1/1 Test: MyTest
 Command: "/home/ubuntu/yarosoon/workspace/projects/my-project/build/MyExecutable"
 Directory: /home/ubuntu/yarosoon/workspace/projects/my-project/build
-"MyTest" start time: Sep 13 16:34 MSK
+"MyTest" start time: Sep 13 16:44 MSK
 Output:
 ----------------------------------------------------------
 output -1
@@ -12,8 +12,8 @@ output -1
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"MyTest" end time: Sep 13 16:34 MSK
+"MyTest" end time: Sep 13 16:44 MSK
 "MyTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Sep 13 16:34 MSK
+End testing: Sep 13 16:44 MSK
