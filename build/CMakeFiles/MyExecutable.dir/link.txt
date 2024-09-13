@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyExecutable.dir/task.cpp.o CMakeFiles/MyExecutable.dir/function.cpp.o -o MyExecutable 

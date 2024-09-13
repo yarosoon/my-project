@@ -1,0 +1,4 @@
+/home/ubuntu/yarosoon/workspace/projects/my-project/build/CMakeFiles/MyExecutable.dir
+/home/ubuntu/yarosoon/workspace/projects/my-project/build/CMakeFiles/test.dir
+/home/ubuntu/yarosoon/workspace/projects/my-project/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/yarosoon/workspace/projects/my-project/build/CMakeFiles/rebuild_cache.dir
