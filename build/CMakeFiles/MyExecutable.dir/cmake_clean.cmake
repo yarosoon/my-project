@@ -1,6 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/MyExecutable.dir/function.cpp.o"
-  "CMakeFiles/MyExecutable.dir/function.cpp.o.d"
   "CMakeFiles/MyExecutable.dir/task.cpp.o"
   "CMakeFiles/MyExecutable.dir/task.cpp.o.d"
   "MyExecutable"

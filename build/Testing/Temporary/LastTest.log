@@ -1,19 +1,32 @@
-Start testing: Sep 13 16:44 MSK
+Start testing: Sep 13 17:13 MSK
 ----------------------------------------------------------
-1/1 Testing: MyTest
-1/1 Test: MyTest
-Command: "/home/ubuntu/yarosoon/workspace/projects/my-project/build/MyExecutable"
+1/1 Testing: FunctionTest
+1/1 Test: FunctionTest
+Command: "/home/ubuntu/yarosoon/workspace/projects/my-project/build/test_function"
 Directory: /home/ubuntu/yarosoon/workspace/projects/my-project/build
-"MyTest" start time: Sep 13 16:44 MSK
+"FunctionTest" start time: Sep 13 17:13 MSK
 Output:
 ----------------------------------------------------------
-output -1
+[==========] Running 3 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 3 tests from FunctionTest
+[ RUN      ] FunctionTest.PositiveNumbers
+[       OK ] FunctionTest.PositiveNumbers (0 ms)
+[ RUN      ] FunctionTest.WithZero
+[       OK ] FunctionTest.WithZero (0 ms)
+[ RUN      ] FunctionTest.NegativeNumbers
+[       OK ] FunctionTest.NegativeNumbers (0 ms)
+[----------] 3 tests from FunctionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 3 tests.
 <end of output>
-Test time =   0.01 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"MyTest" end time: Sep 13 16:44 MSK
-"MyTest" time elapsed: 00:00:00
+"FunctionTest" end time: Sep 13 17:13 MSK
+"FunctionTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Sep 13 16:44 MSK
+End testing: Sep 13 17:13 MSK

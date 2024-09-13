@@ -4,5 +4,6 @@
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
-add_test(MyTest "/home/ubuntu/yarosoon/workspace/projects/my-project/build/MyExecutable")
-set_tests_properties(MyTest PROPERTIES  _BACKTRACE_TRIPLES "/home/ubuntu/yarosoon/workspace/projects/my-project/CMakeLists.txt;15;add_test;/home/ubuntu/yarosoon/workspace/projects/my-project/CMakeLists.txt;0;")
+add_test(FunctionTest "/home/ubuntu/yarosoon/workspace/projects/my-project/build/test_function")
+set_tests_properties(FunctionTest PROPERTIES  _BACKTRACE_TRIPLES "/home/ubuntu/yarosoon/workspace/projects/my-project/CMakeLists.txt;34;add_test;/home/ubuntu/yarosoon/workspace/projects/my-project/CMakeLists.txt;0;")
+subdirs("_deps/googletest-build")
